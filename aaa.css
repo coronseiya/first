@@ -1,0 +1,12 @@
+h1 {
+    color:red;
+    background-color:green;
+}
+.a{
+    color:blue;
+}
+canvas{
+    background: rgb(119,202,167);
+    width: 200px;
+    height:200px;
+}
